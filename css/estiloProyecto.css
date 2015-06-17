@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+#PaginaPrincipal
+{background-color:#0FF}
+
+#MX
+{ background:#0C0; color:#F00; size:"6"; text-align:justify}
+
+#PueblaFC
+{ background:#00F; color:#FFF; size:"6"; text-align:justify}
+
+#America
+{ background:#FF0; color:#00F; size:"6"; text-align:justify}
+
+#Chivas
+{ background:#F00; color:#FFF; size:"6"; text-align:justify}
+
+#Tijuana
+{ background:#F00; color:#000; size:"6"; text-align:justify}
+
+#Veracruz
+{ background:#F00; color:#00F; size:"6"; text-align:justify}
+
+#CruzAzul
+{ background:#00F; color:#FFF; size:"6"; text-align:justify}
+
+#Atlas
+{ background:#F00; color:#000; size:"6"; text-align:justify}
+
+#Toluca
+{ background:#F00; color:#666; size:"6"; text-align:justify}
+
+#Tigres
+{ background:#FF0; color:#00F; size:"6"; text-align:justify}
+
+#Leon
+{ background:#060; color:#FFF; size:"6"; text-align:justify}
+
+#Chiapas
+{ background:#0F0; color:#FFF; size:"6"; text-align:justify}
+
+#Santos
+{ background:#060; color:#960; size:"6"; text-align:justify}
+
+#Pachuca
+{ background:#666; color:#FFF; size:"6"; text-align:justify}
+
+#Dorados
+{ background:#FC0; color:#FFF; size:"6"; text-align:justify}
+
+#Monterrey
+{ background:#00F; color:#FFF; size:"6"; text-align:justify}
+
+#Morelia
+{ background:#900; color:#FFF; size:"6"; text-align:justify}
+
+#Queretaro
+{ background:#00F; color:#FFF; size:"6"; text-align:justify}
+
+#Pumas
+{ background:#C93; color:#FFF; size:"6"; text-align:justify}
